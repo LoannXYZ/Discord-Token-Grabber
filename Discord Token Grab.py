@@ -1,3 +1,5 @@
+#This token grabber should be used for educational purposes only.
+
 import os
 if os.name != "nt":
     exit()
